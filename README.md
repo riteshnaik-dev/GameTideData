@@ -4,8 +4,9 @@ Created by **Ritesh Naik** as a nonprofit learning project.
 
 ## Download the data
 
-- [Download GameTide v1.0 from GitHub Releases](https://github.com/GameTideData/SaaS-Data/releases/tag/v1.0). Open **Assets** to find 120 monthly zip files, the combined SQLite database zip, the verification zip, and the license.
-- [Browse and download individual tables on Hugging Face](https://huggingface.co/datasets/GameTideData/SaaS-Data), including CSV and Parquet formats.
+- [Download GameTide v1.0 from GitHub Releases](https://github.com/riteshnaik-dev/GameTideData/releases/tag/v1.0). Open **Assets** to find 120 monthly zip files, the combined SQLite database zip, the verification zip, and the license.
+- [Browse and download individual tables on Hugging Face](https://huggingface.co/datasets/riteshnaik/GameTideData), including CSV and Parquet formats.
+- [Download and explore the dataset on Kaggle](https://www.kaggle.com/datasets/ritnaik/gametidedata).
 
 The dataset download files are attached to the GitHub release. The repository's main file list contains this overview.
 
